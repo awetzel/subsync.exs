@@ -32,9 +32,9 @@ to sync s1 and s2 as defined in the output subtitle.
 - at the begining, choose the first sentence easy to identify
   precisely, and note the starting time. (ex: `s1-orig=00:00:53.542`)
 - at the end, choose the last sentence easy to identify precisely,
-  and note the starting time. (`s2-orig=00:00:47.000`)
+  and note the starting time. (`s2-orig=01:01:43.250`)
 - play the movie, listen and find the begining time of the chosen first
-  sentence, note it (`s1-movie=01:01:43.250`)
+  sentence, note it (`s1-movie=00:00:47.000`)
 - play the movie, listen and find the begining time of the chosen last
   sentence, note it (`s2-movie=01:01:37.000`)
 - then just execute `subsync.exs s1-orig s1-movie s2-orig s2-movie` so
