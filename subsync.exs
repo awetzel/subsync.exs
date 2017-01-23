@@ -45,4 +45,3 @@ case for(arg<-System.argv, {:ok,t}=Time.from_iso8601(arg), do: t) do
         The second one only applies an offset to the subs, the first one take a last sub as reference to apply a time scale
         """
 end
-#File.stream!("A.Series.of.Unfortunate.Events.s01e02.WebRip.x264-FS.srt")
